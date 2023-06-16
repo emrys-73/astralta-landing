@@ -19,7 +19,7 @@
                 ... and again?
 				<br>
 				<br>
-				yes!
+				yes.
 			</h1>
 		</div>
 		
@@ -30,7 +30,7 @@
 		</h1>	
 	</div>
 	<div class="pl-10 pr-10 sm:pl-18 sm:pr-18 md:pl-32 md:pr-32 xl:pl-40 xl:pr-40 mt-28 mb-28">
-		<div class="flex flex-row mb-4 mt-4">
+		<div class="flex flex-row mb-6 mt-4">
 			<button on:click={open_all}> 
 				<p class="text-link-blue hover:text-blue-700 hover:cursor-pointer pr-4 pl-4">
 					Show all
@@ -46,8 +46,12 @@
 		
 		<Accordion multiple >
 		<AccordionItem bind:open={items[0]} class="hover:bg-subtitle-gray">
-			<span slot="header" class="text-true-white">Explain until it's all crystal clear</span>
-			<p class="mb-2 text-base-gray">Let Astralta explain the topic you trained it with as long as you need it. Just keep asking questions and you'll always get a response. </p>
+			<span slot="header" class="text-true-white">Achieve full understanding</span>
+			<p class="mb-2 text-base-gray">
+				Train Astralta on your course materials or the latest events and let it become
+				your <b class="text-true-white font-normal"> personal tutor </b> and expert on the topic. Ready to explain it all, <b class="text-true-white font-normal">anytime, </b>
+				as often as you want.
+			</p>
 			<!-- <p class="text-gray-500 dark:text-gray-400">Check out this guide to learn how to <a href="/" target="_blank" rel="noreferrer" class="text-blue-600 dark:text-blue-500 hover:underline">get started</a> and start developing websites even faster with components on top of Tailwind CSS.</p> -->
 		</AccordionItem>
 		<AccordionItem bind:open={items[1]} class="hover:bg-subtitle-gray">
@@ -55,14 +59,22 @@
 			<!-- <p class="mb-2 text-gray-500 dark:text-gray-400">Ask Astralta for questions about your topic and get specific questions that will be relevant
 				for you and precisely the topic you are dealing with so you nail every exam.
 			</p> -->
-			<p class="mb-2 text-base-gray">Unlike ChatGPT where you'd have general limited information, with Astralta you can 
-				ask for questions about your specific topic and rely on relevant material for you to study exactly what 
-				matters for your exams, everytime.
+			<p class="mb-2 text-base-gray">
+				ChatGPT has only limited knowledge until 2021. - 
+				 <b class="text-true-white font-normal"> We fixed that. </b>
+				<br>
+				<br>
+
+				Level up your exam preparation by asking Astralta for questions about 
+				the topics that matter to you. That way you achieve the <b class="text-true-white font-normal"> highest efficiency </b>
+				practicing exactly what you will need to get those good grades.
 			</p>
 		</AccordionItem>
 		<AccordionItem bind:open={items[2]} class="hover:bg-subtitle-gray">
 			<div slot="header" class="text-true-white">Summarise anything</div>
-			<p class="text-base-gray">Simplify and summarise the information you trained Astralta with for it to be easier to understand and more enjoyable to play around with.</p>
+			<p class="text-base-gray">
+				Simplify and summarise the information you trained Astralta with for it to 
+				be <b class="text-true-white font-normal">easier</b> to understand and more <b class="text-true-white font-normal">enjoyable</b> to play around with.</p>
 		</AccordionItem>
 		</Accordion>
 	</div>

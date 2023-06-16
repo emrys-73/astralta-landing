@@ -12,6 +12,7 @@
 		</div>
 		
 	</div>
+    
     <div class="w-3/5 mt-28 ml-12">
         <p class="mb-6 text-base-gray font-medium text-xl xl:text-3xl sm:px-16 xl:px-48 text-left w-full lg:text-2xl">
             <b class="text-white">Remarkably helpful.</b>
@@ -26,7 +27,7 @@
             Wow.
         </p>
     </div>
-    <div class="w-3/5 m-12 mb-14">
+    <div class="w-3/5 m-12 mb-14 xl:mb-28">
         <p class="mb-6 text-base-gray font-medium text-xl sm:px-16 xl:px-48 text-left w-full xl:text-3xl lg:text-2xl">
             <b class="text-white">Get sales with one click.</b>
             Your clients can easily make a reservation,

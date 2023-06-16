@@ -12,8 +12,12 @@
 			</h1>
 		</div>
 		<div class="absolute inset-0 flex items-center justify-center mt-20 sm:mt-20 md:mt-28 lg:mt-24 xl:mt-28">
-			<p class="text-true-white text-center justify-center text-md sm:text-lg font-semibold drop-shadow-xl">
-				No Code. All Power.
+			<p class="text-true-white text-center justify-center text-md sm:text-lg font-semibold drop-shadow-xl subtitle">
+				<span>No</span>
+				<span>Code.</span>
+				<span>All</span>
+				<span>Power.</span>
+				<!-- No Code. All Power. -->
 			</p>
 		</div>
 		<div class="absolute inset-6 flex items-center justify-center mt-48 sm:mt-56 md:mt-56 lg:mt-48 xl:mt-64">

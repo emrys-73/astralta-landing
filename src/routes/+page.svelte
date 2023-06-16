@@ -10,6 +10,7 @@
 	import Introduction from '$lib/components/Introduction.svelte';
 	import Students from '$lib/components/Students.svelte';
 	import Outro from '$lib/components/Outro.svelte';
+	import UserQualification from '$lib/components/UserQualification.svelte';
 </script>
 
 <svelte:head>
@@ -51,6 +52,8 @@
 
 <!-- Hero page  -->
 <HeroSection/>
+
+<UserQualification/>
 
 <!-- Introduction -->
 <Introduction/>

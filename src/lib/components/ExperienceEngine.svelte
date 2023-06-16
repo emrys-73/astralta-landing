@@ -43,8 +43,11 @@
 		With servers all over the globe any Astralta product is
 		ready to scale up to millions of blazing-fast interactions. 
 		<br>
+		Every individual ChatBot is programmed to <b class="font-normal text-true-white">stay focused </b>on its mission
+		so you feel it really knows and cares about its topic.
+		<br> 
 		Astralta supports OpenAI's quest towards safe AGI that benefits 
-		all of humanity
+		all of humanity.
 		<br>
 		<br>
 		Which means...<br><b class="text-white font-normal">killer performance and crazy smart</b>. 
