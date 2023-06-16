@@ -5,7 +5,7 @@
 
 <section class="items-center flex-col flex">
 	<div class="min-w-full relative">
-		<img src="hero_girl.png" alt="landscape" class="min-w-full filter brightness-75 ">	
+		<img src="hero_girl.png" alt="landscape" class="min-w-full sm:h-screen object-cover h-[600px]">	
 		<div class="absolute inset-0 flex items-center justify-center">
 			<h1 class="text-white text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl text-center font-semibold">
 				Make your own AI

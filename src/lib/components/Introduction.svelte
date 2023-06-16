@@ -5,7 +5,7 @@
 <section>
 	<div class="text-center flex-col">
 		<div class="mb-8">
-			<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold sm:text-5xl md:text-5xl lg:text-6xl mt-48">
+			<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold sm:text-5xl md:text-5xl lg:text-6xl mt-20 sm:mt-28 md:mt-36 xl:mt-48">
                 Any topic. Any idea. Anytime
             </Heading>	
 		</div>
@@ -21,7 +21,7 @@
 		</div>		
         <div class="mb-14">
             <a href="https://calendly.com/adrian_cal/astralta">
-				<p class=" text-center justify-center text-xs sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
+				<p class=" text-center justify-center text-lg sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
 					Get started for free 
 				</p>
 			</a>
