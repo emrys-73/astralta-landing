@@ -9,7 +9,7 @@
 
 <section class="flex-col flex">
 	<div class="min-w-full relative">
-		<img src="student.png" alt="landscape" class="min-w-full filter brightness-90">	
+		<img src="student.png" alt="landscape" class="min-w-full filter brightness-90  sm:h-screen object-cover h-[600px]">	
 		<div class="absolute inset-0 flex items-center justify-end xl:mr-48 lg:mr-24 md:mr-14 sm:mr-12 mr-8">
 			<h1 class="text-white text-xl sm:text-2xl md:text-4xl lg:text-5xl xl:text-6xl text-right font-semibold">
 				Can you explain
