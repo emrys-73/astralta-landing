@@ -1,5 +1,5 @@
 <script lang="ts">
-	import '../app.postcss';
+	// import '../app.postcss';
 	// The ordering of these imports is critical to your app working properly
 	// import '@skeletonlabs/skeleton/themes/theme-skeleton.css';
 	// If you have source.organizeImports set to true in VSCode, then it will auto change this ordering
@@ -14,7 +14,7 @@
 </script>
 
 <!-- App Shell -->
-<AppShell>
+<AppShell class="bg-black">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar background="bg-transparent dark:bg-transparent" class=" glass-effect">
