@@ -24,24 +24,11 @@
     <meta name="keywords" content="AI-Chatbot, Personalised AI, ChatGPT">
 </svelte:head>
 
-<!-- Debugger -->
-<!-- sm:text-green-400 md:text-blue-600 lg:text-yellow-300 xl:text-red-500 -->
-
 <!-- Full Debugger -->
 <!-- <p class="sm:text-green-400 md:text-blue-600 lg:text-yellow-300 xl:text-red-500">
 	tester
 </p> -->
 
-
-<!-- Divide the website betweens elling the vacation and showcasing the features -->
-<!-- Just So much power.  -->
-<!-- Power runs through our veins -->
-	<!-- Astralta Frontier is built on top of 
-	the latest disruptive technologies.
-	The same power behind ChatGPT is now at your fingertips to play
-	That's just to name a few. 
-
-	Learn more about the tech behind. -->
 
 
 <!-- Neural Fusion - just a cool name for something -->
@@ -98,9 +85,6 @@
 <!-- Pricing -->
 <!-- <Pricing/> -->
 
-
-
-
 <!-- Your Stoires. Your Business. Your AI -->
 <YourAi/>
 <!-- Fun just like you --> 
@@ -113,7 +97,7 @@
 
 
 <!-- Quick outro -->
-<Outro/>
+<!-- <Outro/> -->
 
 <!-- Footer  -->
 <Footer/>

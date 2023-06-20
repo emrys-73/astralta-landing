@@ -7,9 +7,10 @@
     Designed by Astralta in Munich
   </div>
   <div class="grid grid-flow-col gap-8">
-    <a href="/" class="link link-hover">About us</a> 
-    <a href="/" class="link link-hover">Terms and Conditions</a> 
-    <a href="/" class="link link-hover">Contact</a> 
+    <!-- <a href="/" class="link link-hover">About us</a>  -->
+    <a href="mailto:montoya@astralta.com" class="link link-hover">Contact</a> 
+    <a href="/terms-and-conditions" class="link link-hover">Terms and Conditions</a> 
+    
   </div> 
   <!-- <div>
     <div class="grid grid-flow-col gap-4">

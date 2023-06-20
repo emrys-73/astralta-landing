@@ -20,9 +20,9 @@
         <div>
 		</div>		
         <div class="mb-14">
-            <a href="https://calendly.com/adrian_cal/astralta">
+            <a href="/waitlist">
 				<p class=" text-center justify-center text-lg sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
-					Get started for free 
+					Get started for free
 				</p>
 			</a>
         </div>

@@ -19,12 +19,14 @@
 		<!-- App Bar -->
 		<AppBar background="bg-transparent dark:bg-transparent" class=" glass-effect">
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">
-					<div class="flex text-true-white">
-						<img src="logo.png" alt="logo" class="max-w-[30px] mr-2">
-						ASTRALTA
-					</div>
-				</strong>
+				<a href="/">
+					<strong class="text-xl uppercase">
+						<div class="flex text-true-white">
+							<img src="logo.png" alt="logo" class="max-w-[30px] mr-2">
+							ASTRALTA
+						</div>
+					</strong>
+				</a>			
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<!-- <LightSwitch /> -->
