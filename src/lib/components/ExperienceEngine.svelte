@@ -1,15 +1,14 @@
 <script>
     import {  Heading, P, A, Mark, Secondary, Button, Span, Card } from 'flowbite-svelte'
 </script>
-
 <!-- Experience Engine -->
-<section class="min-h-screen justify-center items-center flex">
-	<div class="flex items-center w-3/4 flex-col-reverse lg:flex-row xl:flex-row">
+<section class="min-h-screen justify-center flex pb-12">
+	<div class="flex items-center flex-col-reverse lg:flex-row xl:flex-row px-12">
 		<div class="w-1/2 items-center justify-center mx-2">
-			<img src="X1.png" alt="Experience Engine" class="w-full items-center xl:ml-10 xl:min-w-[300px] md:mt-10">
+			<img src="X1.png" alt="Experience Engine" class="w-full items-center xl:ml-40 lg:pl-12 lg:pb-12 md:pb-16 xl:min-w-[300px] py-12">
 		</div>	
-		<div class="w-full xl:ml-10">
-			<h1 class="mb-8 lg:mb-6 xl:mb-6 md:px-16 lg:px-16 xl:px-48 dark:text-true-white text-left w-full sm:px-16 text-5xl font-bold text-true-black">
+		<div class="w-full xl:ml-10 pt-20">
+			<h1 class="mb-8 lg:mb-6 xl:mb-6 pb-6 dark:text-true-white lg:text-left w-full text-5xl font-bold text-true-black text-center lg:pl-16 xl:pl-48">
 				Industry-Leading
 				<br>
 				Experience Engine
