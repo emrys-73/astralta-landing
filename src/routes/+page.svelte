@@ -11,6 +11,7 @@
 	import Students from '$lib/components/Students.svelte';
 	import Outro from '$lib/components/Outro.svelte';
 	import UserQualification from '$lib/components/UserQualification.svelte';
+	import Creators from '$lib/components/Creators.svelte';
 </script>
 
 <svelte:head>
@@ -98,6 +99,11 @@
 
 <!-- Quick outro -->
 <!-- <Outro/> -->
+
+
+<!-- Creators -->
+<Creators/>
+
 
 <!-- Footer  -->
 <Footer/>
