@@ -1,4 +1,4 @@
-<section class="flex-col flex">
+<section class="flex-col flex mb-12 xl:mb-6">
 	<div class="min-w-full relative">
 		<img src="chef_2.png" alt="landscape" class="min-w-full filter brightness-90">	
 		<div class="absolute inset-0 flex items-center justify-left ml-8 sm:ml-14 lg:ml-20 xl:ml-32">

@@ -25,7 +25,7 @@
 		</div>
 		<div class="absolute inset-6 flex items-center justify-center mt-28 sm:mt-60 md:mt-60 lg:mt-48 xl:mt-32 xl:p-60 lg:p-40 md:p-32 sm:p-20 p-10 pt-52">
 			<p class="text-base-gray text-center items-center justify-center ">
-				To apply for Astralta education pricing please write us an E-Mail at <a href="mailto:montoya@astralta.com" class="font-bold text-true-white">montoya@astralta.com</a> 
+				To apply for Astralta education pricing please write us an E-Mail at <a href="mailto:help@astralta.com" class="font-bold text-true-white">help@astralta.com</a> 
 				including a file that proves you are currently a student such as enrollment certificate or grade report. 
 				<br> Sending an application from your university E-Mail makes verification faster.
 			</p>

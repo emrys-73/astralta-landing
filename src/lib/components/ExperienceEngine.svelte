@@ -2,7 +2,7 @@
     import {  Heading, P, A, Mark, Secondary, Button, Span, Card } from 'flowbite-svelte'
 </script>
 <!-- Experience Engine -->
-<section class="min-h-screen justify-center flex pb-12">
+<section class="min-h-screen justify-center flex pb-12 my-8 md:my-14">
 	<div class="flex items-center flex-col-reverse lg:flex-row xl:flex-row px-12">
 		<div class="w-1/2 items-center justify-center mx-2">
 			<img src="X1.png" alt="Experience Engine" class="w-full items-center xl:ml-40 lg:pl-12 lg:pb-12 md:pb-16 xl:min-w-[300px] py-12">

@@ -24,7 +24,7 @@
 		</div>
 		
 	</div>
-	<div>
+	<div class="mt-12">
 		<h1 class="text-4xl pl-10 pr-10 md:text-5xl xl:text-6xl text-center text-true-white justify-center mt-20 font-bold">
 			Explore Astralta for students
 		</h1>	
