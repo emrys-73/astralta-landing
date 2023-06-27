@@ -11,7 +11,7 @@
 		
 	</div>
     
-    <div class="my-28 px-12 md:px-24 xl:px-32">
+    <div class="mt-28 mb-12 px-12 md:px-24 xl:px-32">
         <p class="mb-6 text-base-gray font-medium text-xl xl:text-3xl sm:px-16 xl:px-48 text-center w-full lg:text-2xl">
             <b class="text-white">Train once, create forever.</b>
             Astralta becomes an expert in your personal brand 
@@ -27,6 +27,13 @@
             - Unique Copywriting -->
         </p>
     </div>
+    <div class="mb-14">
+        <a href="/waitlist">
+            <p class=" text-center justify-center text-lg sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
+                Get started for free
+            </p>
+        </a>
+    </div>
 
     <!-- <div class="w-3/5 m-12 mb-14 xl:mb-28">
         <p class="mb-6 text-base-gray font-medium text-xl sm:px-16 xl:px-48 text-left w-full xl:text-3xl lg:text-2xl">
@@ -39,12 +46,5 @@
             <br>
 
         </p>
-    </div> -->
-    <!-- <div class="mb-28">
-        <a href="https://calendly.com/adrian_cal/astralta">
-            <p class=" text-left justify-center text-xs sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
-                Get Astralta for your business
-            </p>
-        </a>
     </div> -->
 </section>

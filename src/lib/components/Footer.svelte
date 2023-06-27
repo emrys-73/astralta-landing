@@ -2,13 +2,13 @@
     import { Footer, FooterCopyright, FooterLinkGroup, FooterLink } from 'flowbite-svelte'
 </script>
   
-<footer class="footer footer-center p-8 text-base-content rounded bg-true-black">
+<footer class="footer footer-center p-8 text-base-gray rounded bg-true-black">
   <div class="italic text-sm font-light">
     Designed by Astralta in Munich
   </div>
   <div class="grid grid-flow-col gap-8">
     <!-- <a href="/" class="link link-hover">About us</a>  -->
-    <a href="mailto:montoya@astralta.com" class="link link-hover">Contact</a> 
+    <a href="mailto:help@astralta.com" class="link link-hover">Contact</a> 
     <a href="/terms-and-conditions" class="link link-hover">Terms and Conditions</a> 
     
   </div> 
