@@ -27,7 +27,7 @@
 			</a>
         </div>
 		<div class="items-center justify-center flex">
-			<img src="MVP_Mac.png" alt="ai_bot_screenshot" class="w-5/6">
+			<img src="mockup.png" alt="ai_bot_screenshot" class="w-5/6">
 		</div>
 					
 	</div>
