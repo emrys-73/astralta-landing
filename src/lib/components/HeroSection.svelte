@@ -21,7 +21,7 @@
 			</p>
 		</div>
 		<div class="absolute inset-6 flex items-center justify-center mt-48 sm:mt-56 md:mt-56 lg:mt-48 xl:mt-64">
-			<a href="https://app.astralta.com/waitlist">
+			<a href="https://app.astralta.com">
 				<p class="text-true-white text-center justify-center text-md sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4  hover:text-yellow-400 drop-shadow-xl">
 					Get started for free
 				</p>
