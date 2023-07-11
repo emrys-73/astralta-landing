@@ -16,7 +16,7 @@
 <!-- This was just copy paste the waitlist site but has to be integrated into 
 the logic, I was just too sleepy to do it -->
 
-<div class="flex flex-col items-center h-full w-full text-true-white bg-[url('home.png')] bg-image">
+<div class="flex flex-col items-center h-full w-full text-true-white bg-[url('/home.png')] bg-image">
     <a href="/">
         <h1 class="text-4xl text-true-white pt-10 font-bold uppercase">
             Astralta
