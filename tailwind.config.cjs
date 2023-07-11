@@ -23,6 +23,22 @@ module.exports = {
 			'subtitle-gray': '#7A7A7F',
 			'base-gray': '#97979C',
 			'link-blue': '#198AFF',
+
+			// Apple colors
+			'system-red': '#FF453A',
+			'system-orange': '#FF9F0A',
+			'system-yellow': '#FFD60A',
+			'system-green': '#32D74B',
+			'system-mint': '#66D4CF',
+			'system-teal': '#6AC4DC',
+			'system-cyan': '#5AC8F5',
+			'system-blue': '#0A84FF',
+			'system-indigo': '#5E5CE6',
+			'system-purple': '#BF5AF2',
+			'system-pink': '#FF375F',
+			'system-brown': '#AC8E68',
+			'system-gray': '#98989D',
+			
 			// flowbite-svelte
 			primary: {"50":"#ecfeff","100":"#cffafe","200":"#a5f3fc","300":"#67e8f9","400":"#22d3ee","500":"#06b6d4","600":"#0891b2","700":"#0e7490","800":"#155e75","900":"#164e63"}
 	

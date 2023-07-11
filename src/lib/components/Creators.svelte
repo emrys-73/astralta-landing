@@ -28,7 +28,7 @@
         </p>
     </div>
     <div class="mb-14">
-        <a href="https://app.astralta.com">
+        <a href="/waitlist">
             <p class=" text-center justify-center text-lg sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
                 Get started for free
             </p>

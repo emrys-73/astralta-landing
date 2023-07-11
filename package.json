@@ -49,6 +49,7 @@
 		"@popperjs/core": "^2.11.8",
 		"classnames": "^2.3.2",
 		"flowbite": "^1.6.5",
-		"flowbite-svelte": "^0.37.5"
+		"flowbite-svelte": "^0.37.5",
+		"pocketbase": "^0.15.2"
 	}
 }
