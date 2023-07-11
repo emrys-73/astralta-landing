@@ -27,13 +27,13 @@
             - Unique Copywriting -->
         </p>
     </div>
-    <div class="mb-14">
+    <!-- <div class="mb-14">
         <a href="/waitlist">
             <p class=" text-center justify-center text-lg sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
                 Get started for free
             </p>
         </a>
-    </div>
+    </div> -->
 
     <!-- <div class="w-3/5 m-12 mb-14 xl:mb-28">
         <p class="mb-6 text-base-gray font-medium text-xl sm:px-16 xl:px-48 text-left w-full xl:text-3xl lg:text-2xl">
