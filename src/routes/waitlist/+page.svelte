@@ -13,13 +13,13 @@
     
 </script>
 
-<div class="flex flex-col items-center h-full w-full text-true-white bg-[url('home.png')] bg-image">
+<div class="flex flex-col items-center h-full w-full text-true-white bg-[url('../../home.png')] bg-image">
 	<div class="w-full h-full bg-black bg-opacity-50">
 		<div class="flex-none h-16 lg:h-20">
 
 		</div>
 	
-		<h2 class="mt-2 text-center text-xl sm:text-2xl pb-4 lg:text-3xl font-bold tracking-light text-true-white lg:pb-8">
+		<h2 class="mt-2 text-center text-xl sm:text-2xl pb-4 lg:text-3xl font-bold tracking-light text-true-white lg:pb-8 px-6">
 			Join waitlist
 		</h2>
 		<!-- This text is pretty much useless. Change it -->
@@ -33,7 +33,7 @@
 		</p> -->
 	
 	
-		<form action="?/join" method="POST" class="flex flex-col items-center space-y-2 w-full pt-4" on:submit={handleSubmit}>
+		<form action="?/join" method="POST" class="flex flex-col items-center space-y-2 w-full pt-4 px-6" on:submit={handleSubmit}>
 			<div class="form-control w-full max-w-md py-2">
 				<label for="name" class="label font-medium py-2 hidden">
 					<span class="label-text text-transparent">
