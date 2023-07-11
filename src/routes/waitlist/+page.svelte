@@ -13,7 +13,7 @@
     
 </script>
 
-<div class="flex flex-col items-center h-full w-full text-true-white bg-[url('../../home.png')] bg-image">
+<div class="flex flex-col items-center h-full w-full text-true-white bg-[url('../home.png')] bg-image">
 	<div class="w-full h-full bg-black bg-opacity-50">
 		<div class="flex-none h-16 lg:h-20">
 
