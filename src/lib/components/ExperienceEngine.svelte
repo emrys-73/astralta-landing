@@ -37,19 +37,19 @@
 	<p class="mb-6 text-base-gray text-xl lg:text-2xl xl:text-3xl font-medium sm:px-16 xl:px-48 text-center w-full md:text-xl">
 		<b class="text-white"></b>
 		Astralta's ChatBots are supercharged by the latest
-		<b class="font-normal text-true-white">GPT Models from OpenAI</b> in a seamless integration with 
+		<b class=" text-true-white font-semibold">GPT Models from OpenAI</b> in a seamless integration with 
 		next-generation web technologies from the ground up.
 		With servers all over the globe any Astralta product is
 		ready to scale up to millions of blazing-fast interactions. 
 		<br>
-		Every individual ChatBot is programmed to <b class="font-normal text-true-white">stay focused </b>on its mission
+		Every individual ChatBot is programmed to <b class="font-semibold text-true-white">stay focused </b>on its mission
 		so you feel it really knows and cares about its topic.
 		<br> 
 		Astralta supports OpenAI's quest towards safe AGI that benefits 
 		all of humanity.
 		<br>
 		<br>
-		Which means...<br><b class="text-white font-normal">killer performance and crazy smart</b>. 
+		Which means...<br><b class="text-white font-semibold">killer performance and crazy smart</b>. 
 
 	</p>
 </div>

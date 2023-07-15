@@ -54,7 +54,7 @@
 </script>
 
 <!-- Add this HTML element with the "word" class -->
-<section class="items-center flex-col flex h-[200px] pt-10 xl:pt-20 pb-2">
+<section class="items-center flex-col flex h-[200px] pt-6 xl:pt-2 pb-2">
   <div class="min-w-full relative">
     <h1 class="text-4xl pl-10 pr-10 md:text-5xl xl:text-6xl text-center text-true-white justify-center mt-20 font-bold">
       <div class="text-base-gray">Made for </div>

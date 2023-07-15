@@ -16,7 +16,7 @@
 				<span>No</span>
 				<span>Code.</span>
 				<span>All</span>
-				<span>Power.</span>
+				<span>You.</span>
 				<!-- No Code. All Power. -->
 			</p>
 		</div>

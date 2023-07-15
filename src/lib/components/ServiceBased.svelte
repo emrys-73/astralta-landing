@@ -13,7 +13,7 @@
 		
 	</div>
     
-    <div class="w-3/5 mt-28 ml-12">
+    <div class="w-3/5 mt-28 ml-12 mb-20">
         <p class="mb-6 text-base-gray font-medium text-xl xl:text-3xl sm:px-16 xl:px-48 text-left w-full lg:text-2xl">
             <b class="text-white">Remarkably helpful.</b>
             Astralta lets service-based businesses 
@@ -27,7 +27,7 @@
             Wow.
         </p>
     </div>
-    <div class="w-3/5 m-12 mb-14 xl:mb-28">
+    <!-- <div class="w-3/5 m-12 mb-14 xl:mb-28">
         <p class="mb-6 text-base-gray font-medium text-xl sm:px-16 xl:px-48 text-left w-full xl:text-3xl lg:text-2xl">
             <b class="text-white">Get sales with one click.</b>
             Your clients can easily make a reservation,
@@ -37,7 +37,7 @@
             <br>
 
         </p>
-    </div>
+    </div> -->
     <!-- <div class="mb-28">
         <a href="https://calendly.com/adrian_cal/astralta">
             <p class=" text-left justify-center text-xs sm:text-lg md:text-xl lg:text-xl xl:text-2xl font-light hover:no-underline hover:underline-offset-4 text-link-blue hover:text-blue-700">
