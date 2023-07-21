@@ -20,6 +20,6 @@
     </div>
   </div>  -->
   <div>
-    <p>Copyright © 2023 Astratla. All rights reserved.</p>
+    <p>Copyright © 2023 Astralta. All rights reserved.</p>
   </div>
 </footer>
