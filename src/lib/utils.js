@@ -8,7 +8,11 @@ export const serializeNonPOJOs = (/** @type {any} */ obj) => {
 
 export const generateUsername = (/** @type {string | any[]} */ name) => {
     const id = randomBytes(2).toString('hex')
-    return `${name.slice(0, 5)}${id}`
+    if (name.length > 3 ) {
+        return `${name.slice(0, 5)}${id}`
+    } else {
+        return `${name}${id}`
+    }
 }
 
 export const getImageURL = (/** @type {any} */ collectionId, /** @type {any} */ recordId, /** @type {any} */ fileName, size = '0x0') => {
