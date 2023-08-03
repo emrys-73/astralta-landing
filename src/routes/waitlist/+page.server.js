@@ -29,8 +29,8 @@ export const actions = {
         const body = Object.fromEntries(await request.formData())
 
         let username = generateUsername(body.name.split(' ').join('')).toLowerCase()
-        body.password = username;
-        body.passwordConfirm = username;
+        body.password = `${username}astralta`;
+        body.passwordConfirm = `${username}astralta`;
         body.role = 'waitlist'
         body.access = false;
 
