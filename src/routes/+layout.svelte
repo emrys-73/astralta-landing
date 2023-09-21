@@ -10,36 +10,50 @@
 	import { LightSwitch } from '@skeletonlabs/skeleton';
 	import Footer from '$lib/components/Footer.svelte';
 	import { GradientButton } from 'flowbite-svelte';
+	import { animate } from '../stores';
+	import { onMount } from 'svelte';
+
+	onMount(() => {
+		
+	})
 
 </script>
 
 <!-- App Shell -->
-<AppShell class="bg-black">
-	<svelte:fragment slot="header">
+<AppShell class="bg-white dark:bg-black text-black dark:text-white relative text-sm">
+	
 		<!-- App Bar -->
-		<AppBar background="bg-transparent dark:bg-transparent" class=" glass-effect">
-			<svelte:fragment slot="lead">
-				<a href="/">
-					<strong class="text-xl uppercase">
-						<div class="flex text-true-white">
-							<img src="logo.png" alt="logo" class="max-w-[30px] mr-2">
-							ASTRALTA
-						</div>
-					</strong>
-				</a>			
-			</svelte:fragment>
-			<svelte:fragment slot="trail">
-				<!-- <LightSwitch /> -->
-				<!-- <a href="/">
-					<button class=" bg-blue-600 hover:bg-blue-800 text-white font-bold py-2 px-4 rounded-full text-xs">
+		<div class="{$animate} w-full absolute top-0 bg-transparent hover:bg-white hover:bg-opacity-5 backdrop-blur-md h-12 flex justify-center items-center px-2">
+			<div class="md:w-4/6 w-full h-full relative justify-center flex items-center">
+				<!-- Logo -->
+				<div class=" items-center dark:flex justify-center absolute left-2 hidden">
+					<a href="/">
+						<img src="/logo/astralta_logo_light.png" alt="logo" class="w-8 h-8">
+					</a>
+				</div>
+				<div class=" items-center flex justify-center absolute left-2 dark:hidden">
+					<img src="/logo/astralta_logo_gray.png" alt="logo" class="w-8 h-8">
+
+				</div>
+
+				<!-- Menu -->
+				<div>
+					<LightSwitch/>
+				</div>
+
+				<!-- Call To Action -->
+				<div class=" items-center justify-center absolute right-2 text-white">
+					<button class="bg-system-blue rounded-full px-4 py-1">
 						Log In
 					</button>
-				</a> -->
-			</svelte:fragment>
-		</AppBar>
-	</svelte:fragment>
+				</div>
+					
+			
+
+			</div>
+		</div>
+
 	<!-- Page Route Content -->
 	<slot />
-	<!-- Footer depreciated because of fixed position -->
-	<!-- <svelte:fragment slot="pageFooter"><Footer/></svelte:fragment> -->
+
 </AppShell>
