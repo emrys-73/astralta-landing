@@ -38,7 +38,7 @@
 
 				<!-- Menu -->
 				<div>
-					<LightSwitch/>
+					<!-- <LightSwitch/> -->
 				</div>
 
 				<!-- Call To Action -->
