@@ -45,7 +45,12 @@
 	<!-- Hero Section for Astralta Pro -->
 	<div class="w-full h-full bg-[url('/cheering_model_darker.png')] bg-image flex justify-center items-center">
 
+		<!-- Change to 32 if using title -->
 		<div class="pt-40 px-4 flex flex-col gap-2">
+			<!-- Title -->
+			<!-- <div class="opacity-70">
+				Astralta Pro
+			</div> -->
 			<!-- Headline -->
 			<div class="text-3xl md:text-4xl font-bold drop-shadow-lg">
 				Create ground-breaking AI Tools without code
@@ -58,9 +63,11 @@
 			<!-- Call to Action -->
 			<div class="flex flex-row gap-3 my-4 items-center">
 				<div>
-					<button class="{$animate} bg-system-blue rounded-full px-4 py-1 hover:bg-[#0a8dff]">
-						Start for free
-					</button>
+					<a href="/login">
+						<button class="{$animate} bg-system-blue rounded-full px-4 py-1 hover:bg-[#0a8dff]">
+							Start for free
+						</button>
+					</a>
 				</div>
 				<div class="flex justify-center items-center">
 					<div class="text-[#198CFF] hover:border-b-2 border-[#198CFF] hover:cursor-pointer">
@@ -75,8 +82,11 @@
 		</div>
 	</div>
 
-	<div class="w-full h-screen">
-
+	<!-- Major Headline -->
+	<div class="w-full lg:w-4/6 lg:py-20 h-screen px-4 py-0 justify-center flex">
+		<div class="text-3xl md:text-4xl font-bold text-left">
+			Astralta brings you the greatest level of customisation to an AI ChatBot, ever.
+		</div>
 	</div>
 	
 	<!-- Hero section for Astralta -->
