@@ -52,19 +52,20 @@
 				Astralta Pro
 			</div> -->
 			<!-- Headline -->
-			<div class="text-3xl md:text-4xl font-bold drop-shadow-lg">
+			<div class="text-3xl md:text-4xl font-bold drop-shadow-lg hover:md:text-5xl transition-all duration-300 ease-in-out">
 				Create ground-breaking AI Tools without code
 			</div>
 			<!-- Subheader -->
 			<div class=" md:text-left">
 				World's smartest AI builder + tool gallery
 			</div>
+			<!-- Soon to be marketplace -->
 
 			<!-- Call to Action -->
 			<div class="flex flex-row gap-3 my-4 items-center">
 				<div>
 					<a href="/login">
-						<button class="{$animate} bg-system-blue rounded-full px-4 py-1 hover:bg-[#0a8dff]">
+						<button class="{$animate} bg-system-blue rounded-full px-4 py-1 hover:bg-[#0a8dff] hover:px-6 transition-all duration-300 ease-in-out">
 							Start for free
 						</button>
 					</a>

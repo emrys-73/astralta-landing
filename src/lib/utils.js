@@ -16,6 +16,6 @@ export const generateUsername = (/** @type {string | any[]} */ name) => {
 }
 
 export const getImageURL = (/** @type {any} */ collectionId, /** @type {any} */ recordId, /** @type {any} */ fileName, size = '0x0') => {
-    return `http://139.144.176.23:80/api/files/${collectionId}/${recordId}/${fileName}?thumb=${size}`;
+    return `https://base.astralta.com:443/api/files/${collectionId}/${recordId}/${fileName}?thumb=${size}`;
 };
 
