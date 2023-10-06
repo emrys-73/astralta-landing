@@ -52,7 +52,7 @@
 				Astralta Pro
 			</div> -->
 			<!-- Headline -->
-			<div class="text-3xl md:text-4xl font-bold drop-shadow-lg hover:md:text-5xl transition-all duration-300 ease-in-out">
+			<div class="text-3xl md:text-4xl font-bold drop-shadow-lg transition-all duration-300 ease-in-out">
 				Create ground-breaking AI Tools without code
 			</div>
 			<!-- Subheader -->
