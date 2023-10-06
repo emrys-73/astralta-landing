@@ -64,7 +64,7 @@
 			<!-- Call to Action -->
 			<div class="flex flex-row gap-3 my-4 items-center">
 				<div>
-					<a href="/login">
+					<a href="/waitlist">
 						<button class="{$animate} bg-system-blue rounded-full px-4 py-1 hover:bg-[#0a8dff] hover:px-6 transition-all duration-300 ease-in-out">
 							Start for free
 						</button>
