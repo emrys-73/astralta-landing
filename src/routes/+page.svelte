@@ -84,11 +84,11 @@
 	</div>
 
 	<!-- Major Headline -->
-	<div class="w-full lg:w-4/6 lg:py-20 h-screen px-4 py-0 justify-center flex">
+	<!-- <div class="w-full lg:w-4/6 lg:py-20 h-screen px-4 py-0 justify-center flex">
 		<div class="text-3xl md:text-4xl font-bold text-left">
 			Astralta brings you the greatest level of customisation to an AI ChatBot, ever.
 		</div>
-	</div>
+	</div> -->
 	
 	<!-- Hero section for Astralta -->
 
