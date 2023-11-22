@@ -93,7 +93,7 @@
 				</a>
 				{#each menu as m}
 				<a href={m.url} >
-					<div class=" {$animate} py-2 md:px-2 lg:px-6 xl:px-8 text-xs opacity-70 hover:opacity-100 sf-pro-display font-light">
+					<div class=" {$animate} py-2 md:px-2 lg:px-6 xl:px-8 text-xs opacity-70 hover:opacity-100 font-sans font-light">
 						{m.name}
 					</div>
 				</a>

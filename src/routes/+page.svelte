@@ -40,7 +40,7 @@
 
 
 <!-- Hero page  -->
-<div id="infinity" class="w-full h-screen bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+<div id="infinity" class="w-full h-screen bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center font-sans z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<span class="font-extrabold text-5xl tracking-wider">
