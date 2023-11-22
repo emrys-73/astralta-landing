@@ -14,6 +14,9 @@ module.exports = {
 	],
 	theme: {
 		extend: {
+			fontFamily: {
+				custom: ['SF Pro Display', 'SF Pro Text', 'SF Pro'],
+			  },
 		  colors: {
 			'custom-violet': '#F507FD',
 			'custom-orange': '#00FFF7',

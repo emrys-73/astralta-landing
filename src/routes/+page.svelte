@@ -40,57 +40,127 @@
 
 
 <!-- Hero page  -->
-<!-- <HeroSection/> -->
-<div class="w-full h-full flex flex-col justify-center items-center">
-	<!-- Hero Section for Astralta Pro -->
-	<div class="w-full h-full bg-[url('/cheering_model_darker.png')] bg-image flex justify-center items-center">
-
-		<!-- Change to 32 if using title -->
-		<div class="pt-40 px-4 flex flex-col gap-2">
-			<!-- Title -->
-			<!-- <div class="opacity-70">
-				Astralta Pro
-			</div> -->
-			<!-- Headline -->
-			<div class="text-3xl md:text-4xl font-bold drop-shadow-lg transition-all duration-300 ease-in-out">
-				Create ground-breaking AI Tools without code
-			</div>
-			<!-- Subheader -->
-			<div class=" md:text-left">
-				World's smartest AI builder + tool gallery
-			</div>
-			<!-- Soon to be marketplace -->
-
-			<!-- Call to Action -->
-			<div class="flex flex-row gap-3 my-4 items-center">
-				<div>
-					<a href="https://app.astralta.com/waitlist">
-						<button class="{$animate} bg-system-blue rounded-full px-4 py-1 hover:bg-[#0a8dff] hover:px-6 transition-all duration-300 ease-in-out">
-							Start for free
-						</button>
-					</a>
-				</div>
-				<!-- <div class="flex justify-center items-center">
-					<div class="text-[#198CFF] hover:border-b-2 border-[#198CFF] hover:cursor-pointer">
-						Learn More
-					</div>
-					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#198CFF" class="w-4 h-4">
-						<path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
-					  </svg>
-				</div> -->
-				  
+<div id="infinity" class="w-full h-screen bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
+		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
+			<span class="font-extrabold text-5xl tracking-wider">
+				Infinity is
+				<br class="hidden xl:flex">
+				just the beginning
+			</span>
+			<span class="text-xl leading-6 font-extralight bg-black p-4 bg-opacity-20 backdrop-blur-md rounded-xl">
+				At Astralta, we provide <b>ultra-tailored AI solutions </b> and <b>on-demand intelligence</b> for your 
+				
+				<b>unique challenge</b> with power, safety and privacy in mind.
+			</span>
+			<div class="flex flex-row gap-3 w-full justify-start">
+				<a href="https://calendly.com/adrian_cal/astralta">
+					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
+						Book a call
+					</button>
+				</a>
+				<a href="/infinity">
+					<button class="{$animate} bg-transparent backdrop-blur-md px-6 hover:px-8 py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
+						Learn more
+					</button>
+				</a>
 			</div>
 		</div>
-	</div>
-
-	<!-- Major Headline -->
-	<!-- <div class="w-full lg:w-4/6 lg:py-20 h-screen px-4 py-0 justify-center flex">
-		<div class="text-3xl md:text-4xl font-bold text-left">
-			Astralta brings you the greatest level of customisation to an AI ChatBot, ever.
-		</div>
-	</div> -->
+		
 	
-	<!-- Hero section for Astralta -->
+	</div>
+</div>
 
+<!-- Studio  -->
+<div id="studio" class="w-full h-screen bg-[url('/bgs/blonde.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
+		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
+			<div class="flex flex-row gap-2 items-center">
+				<div class="w-8">
+					<img src="/logo/plain_white.png" alt="">
+				</div>
+				<span class="font-thin text-4xl tracking-wider">
+					Studio
+				</span>
+			</div>
+			<span class="text-xl leading-6 font-extralight  rounded-xl">
+				World’s most <b>intuitive AI creation</b> platform
+			</span>
+			<div class="flex flex-row gap-3 w-full justify-start">
+				<a href="https://app.astralta.com/waitlist">
+					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
+						Start for free
+					</button>
+				</a>
+				<!-- <a href="/studio">
+					<button class="{$animate} bg-transparent backdrop-blur-md px-6 hover:px-8 py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
+						Learn more
+					</button>
+				</a> -->
+			</div>
+		</div>
+		
+	
+	</div>
+</div>
 
+<!-- Studio Pro  -->
+<div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
+		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
+			<div class="flex flex-row gap-2 items-center">
+				<div class="w-8">
+					<img src="/logo/plain_white.png" alt="">
+				</div>
+				<span class="font-thin text-4xl tracking-wider">
+					Studio <span class="font-bold">PRO</span>
+				</span>
+			</div>
+			<span class="text-xl leading-6 font-extralight  rounded-xl">
+				Greatest level of customisation ever. <br class="sm:hidden">  <b>Insanely pro</b>
+			</span>
+			<div class="flex flex-row gap-3 w-full justify-start">
+				<a href="/studio-pro">
+					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
+						Learn more
+					</button>
+				</a>
+				<div class="bg-transparent backdrop-blur-md px-6 py-2 rounded-full bg-opacity-90">
+					Coming soon
+				</div>
+
+			</div>
+		</div>
+		
+	
+	</div>
+</div>
+
+<!-- Custom GPTs  -->
+<div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
+		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
+			<div class="flex flex-row gap-2 items-center">
+				<div class="w-8">
+					<img src="/logo/plain_white.png" alt="">
+				</div>
+				<span class="font-thin text-4xl tracking-wider">
+					<span class="font-bold">GPTs</span>
+				</span>
+			</div>
+			<span class="text-xl leading-6 font-extralight  rounded-xl">
+				A collection of our favourite AI assistants
+			</span>
+			<div class="flex flex-row gap-3 w-full justify-start">
+				<a href="/gpts">
+					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
+						Explore the collection
+					</button>
+				</a>
+
+			</div>
+		</div>
+		
+	
+	</div>
 </div>
