@@ -14,7 +14,7 @@
         </span>
 
         <!-- search bar -->
-        <div class="w-full sm:w-3/4 xl:w-1/2 px-12">
+        <!-- <div class="w-full sm:w-3/4 xl:w-1/2 px-12">
           <form class="form" action="?/searchGpts" method="POST">
             <label for="search">
                 <input class="input" type="text" placeholder="Describe what you want" id="search">
@@ -33,7 +33,7 @@
                 </button>
             </label>
         </form>
-        </div>
+        </div> -->
     </div>
 
     <div class="w-full overflow-x-auto px-6 xl:px-40">
