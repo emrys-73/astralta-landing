@@ -72,7 +72,7 @@
 </div>
 
 <!-- Studio  -->
-<div id="studio" class="w-full h-screen bg-[url('/bgs/blonde.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+<div id="studio" class="w-full h-screen bg-[url('/bgs/blonde.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -105,7 +105,7 @@
 </div>
 
 <!-- Studio Pro  -->
-<div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+<div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -137,7 +137,7 @@
 </div>
 
 <!-- Custom GPTs  -->
-<div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center sf-pro-display z-0">
+<div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
