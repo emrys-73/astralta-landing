@@ -58,7 +58,7 @@
 		<!-- App Bar -->
 		<div class="{$animate} w-full absolute top-0 bg-black bg-opacity-70 text-blac backdrop-blur-md h-12 flex justify-end items-center z-10">
 			<div class="hover:cursor-pointer md:hidden">
-				<a href="#infinity" class="absolute top-2 left-6">
+				<a href="/" class="absolute top-2 left-6">
 					<div class="{$animate} my-2 md:mx-2 lg:mx-6 xl:mx-8 opacity-80 hover:opacity-100 w-6">
 						<img src="/logo/plain_white.png" alt="logo" class="">
 					</div>
@@ -86,7 +86,7 @@
 			</div>
 
 			<div class="w-full h-full relative justify-center items-center hidden md:flex">
-				<a href="/#infinity">
+				<a href="/">
 					<div class="{$animate} my-2 md:mx-2 lg:mx-6 xl:mx-8 opacity-80 hover:opacity-100 w-6">
 						<img src="/logo/plain_white.png" alt="logo" class="">
 					</div>

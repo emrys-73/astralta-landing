@@ -8,7 +8,7 @@
             Support
         </span>
 
-        <span class="text-xl leading-6 font-extralight bg-black p-4 bg-opacity-20 backdrop-blur-md rounded-xl pb-8">
+        <span class="text-xl leading-7 font-extralight bg-black bg-opacity-20 backdrop-blur-md rounded-xl py-8 w-full px-12 xl:w-1/2 text-center">
             We're here to guide you through each and every step.
         </span>
 
@@ -19,11 +19,11 @@
                 </button>
             </a>
     
-            <a href="https://calendly.com/adrian_cal/astralta">
+            <!-- <a href="https://calendly.com/adrian_cal/astralta">
                 <button class="{$animate} bg-transparent backdrop-blur-md px-6 hover:px-8 py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
                     Book a call
                 </button>
-            </a>
+            </a> -->
         </div>
 
     </div>
