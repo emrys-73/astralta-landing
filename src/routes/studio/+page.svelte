@@ -7,9 +7,9 @@
 
     let stripe = null
 
-    onMount(async () => {
-        stripe = await loadStripe(PUBLIC_STRIPE_KEY)
-    })
+    // onMount(async () => {
+    //     stripe = await loadStripe(PUBLIC_STRIPE_KEY)
+    // })
 
 </script>
 
