@@ -21,7 +21,7 @@
 	const menu = [
 		{
 			"name": "Studio",
-			"url": "/#studio"
+			"url": "/studio"
 		},
 		{
 			"name": "Studio Pro",
@@ -39,10 +39,10 @@
 			"name": "Partnership",
 			"url": "/partnership"
 		},
-		{
-			"name": "Training",
-			"url": "/training"
-		},
+		// {
+		// 	"name": "Training",
+		// 	"url": "/training"
+		// },
 		{
 			"name": "Support",
 			"url": "/support"
