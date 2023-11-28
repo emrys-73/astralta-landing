@@ -19,10 +19,10 @@
 
 
 	const menu = [
-		{
-			"name": "Studio",
-			"url": "/studio"
-		},
+		// {
+		// 	"name": "Studio",
+		// 	"url": "/studio"
+		// },
 		{
 			"name": "Studio Pro",
 			"url": "/studio-pro"
@@ -56,7 +56,7 @@
 <AppShell class="bg-white dark:bg-black text-black dark:text-white relative text-sm">
 	
 		<!-- App Bar -->
-		<div class="{$animate} w-full absolute top-0 bg-black bg-opacity-70 text-blac backdrop-blur-md h-12 flex justify-end items-center z-10">
+		<div class="{$animate} w-full absolute top-0 bg-black bg-opacity-70 text-blac backdrop-blur-md h-12 flex justify-end items-center z-50">
 			<div class="hover:cursor-pointer md:hidden">
 				<a href="/" class="absolute top-2 left-6">
 					<div class="{$animate} my-2 md:mx-2 lg:mx-6 xl:mx-8 opacity-80 hover:opacity-100 w-6">

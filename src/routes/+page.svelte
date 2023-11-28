@@ -40,7 +40,7 @@
 
 
 <!-- Hero page  -->
-<div class="w-full h-[900px] bg-black text-white flex flex-col md:flex-row py-12">
+<!-- <div class="w-full h-[900px] bg-black text-white flex flex-col md:flex-row py-12">
 	<div class="w-full h-full flex flex-col ">
 		<div class="justify-center w-full h-full flex px-12 xl:px-40 flex-col gap-4 items-center">
 			<span class="text-6xl uppercase italic font-black">
@@ -57,8 +57,8 @@
 		<img src="/Features.png" alt="features" class="w-3/4">
 	</div>
 
-</div>
-<!-- <div id="infinity" class="w-full h-screen bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center font-sans z-0">
+</div> -->
+<div id="infinity" class="w-full h-screen bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center font-sans z-0">
 	
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
@@ -88,10 +88,10 @@
 		
 	
 	</div>
-</div> -->
+</div>
 
 <!-- Studio  -->
-<div id="studio" class="w-full h-screen bg-[url('/bgs/blonde.png')] bg-image flex flex-col justify-center items-center z-0">
+<!-- <div id="studio" class="w-full h-screen bg-[url('/bgs/blonde.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -116,10 +116,10 @@
 		
 	
 	</div>
-</div>
+</div> -->
 
 <!-- Studio Pro  -->
-<!-- <div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center z-0">
+<div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -131,27 +131,29 @@
 				</span>
 			</div>
 			<span class="text-xl leading-6 font-extralight  rounded-xl">
-				Greatest level of customisation ever. <br class="sm:hidden">  <b>Insanely pro</b>
+				Greatest level of <b>AI assistant customisation</b> ever. <b>No-Code</b>, just you. <br class="sm:hidden"> 
 			</span>
 			<div class="flex flex-row gap-3 w-full justify-start">
-				<a href="/studio-pro">
+				<a href="https://buy.stripe.com/14k4jN6MN8Qx9SE8wC">
 					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
-						Learn more
+						Start today
 					</button>
 				</a>
-				<div class="bg-transparent backdrop-blur-md px-6 py-2 rounded-full bg-opacity-90">
-					Coming soon
-				</div>
+				<a href="/studio-pro">
+					<div class="{$animate} bg-black backdrop-blur-md px-6 py-2 rounded-full bg-opacity-20 hover:bg-opacity-30 hover:px-8">
+						Learn More
+					</div>
+				</a>
 
 			</div>
 		</div>
 		
 	
 	</div>
-</div> -->
+</div>
 
 <!-- Custom GPTs  -->
-<!-- <div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center z-0">
+<div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -175,4 +177,4 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
