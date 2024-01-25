@@ -58,10 +58,10 @@
 	</div>
 
 </div> -->
-<div id="infinity" class="w-full h-screen bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center font-sans z-0">
+<div id="infinity" class="w-full h-full min-h-[100vh] bg-[url('/bgs/forest_house_couple.png')] bg-image flex flex-col justify-center items-center font-sans z-0">
 	
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
-		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
+		<div class=" lg:w-2/3 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<span class="font-extrabold text-5xl tracking-wider">
 				We build AI-Powered software 
 				<!-- <br class="hidden xl:flex"> -->
@@ -119,7 +119,7 @@
 </div> -->
 
 <!-- Studio Pro  -->
-<div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center z-0">
+<!-- <div id="studio-pro" class="w-full h-screen bg-[url('/bgs/model.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -135,11 +135,11 @@
 			</span>
 
 			<div class="flex flex-row gap-3 w-full justify-start">
-				<!-- <a href="https://buy.stripe.com/14k4jN6MN8Qx9SE8wC">
+				<a href="https://buy.stripe.com/14k4jN6MN8Qx9SE8wC">
 					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
 						Start today
 					</button>
-				</a> -->
+				</a>
 				<a href="/studio-pro">
 					<div class="{$animate} bg-black backdrop-blur-md px-6 py-2 rounded-full bg-opacity-20 hover:bg-opacity-30 hover:px-8">
 						Learn More
@@ -151,7 +151,7 @@
 		
 	
 	</div>
-</div>
+</div> -->
 
 <!-- Custom GPTs  -->
 <!-- <div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center z-0">
