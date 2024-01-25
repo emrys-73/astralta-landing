@@ -31,10 +31,10 @@
 			"name": "Infinity",
 			"url": "/infinity"
 		},
-		{
-			"name": "Custom GPTs",
-			"url": "/gpts"
-		},
+		// {
+		// 	"name": "Custom GPTs",
+		// 	"url": "/gpts"
+		// },
 		{
 			"name": "Partnership",
 			"url": "/partnership"

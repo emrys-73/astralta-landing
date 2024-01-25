@@ -63,14 +63,14 @@
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<span class="font-extrabold text-5xl tracking-wider">
-				Infinity is
-				<br class="hidden xl:flex">
-				just the beginning
+				We build AI-Powered software 
+				<!-- <br class="hidden xl:flex"> -->
+				to solve your unique challenges
 			</span>
 			<span class="text-xl leading-6 font-extralight bg-black p-4 bg-opacity-20 backdrop-blur-md rounded-xl">
-				At Astralta, we provide <b>ultra-tailored AI solutions </b> and <b>on-demand intelligence</b> for your 
+				With our infinity program. You get an <b>ultra-tailored solution </b> to your specific problem, crafted by our
 				
-				<b>unique challenge</b> with power, safety and privacy in mind.
+				<b>pool of experts</b> with power, safety and privacy in mind.
 			</span>
 			<div class="flex flex-row gap-3 w-full justify-start">
 				<a href="https://calendly.com/adrian_cal/astralta">
@@ -133,12 +133,13 @@
 			<span class="text-xl leading-6 font-extralight  rounded-xl">
 				Greatest level of <b>AI assistant customisation</b> ever. <b>No-Code</b>, just you. <br class="sm:hidden"> 
 			</span>
+
 			<div class="flex flex-row gap-3 w-full justify-start">
-				<a href="https://buy.stripe.com/14k4jN6MN8Qx9SE8wC">
+				<!-- <a href="https://buy.stripe.com/14k4jN6MN8Qx9SE8wC">
 					<button class="{$animate} bg-[#0B84FF] px-6 hover:px-8 font-bold py-2 rounded-full bg-opacity-90 hover:bg-opacity-100">
 						Start today
 					</button>
-				</a>
+				</a> -->
 				<a href="/studio-pro">
 					<div class="{$animate} bg-black backdrop-blur-md px-6 py-2 rounded-full bg-opacity-20 hover:bg-opacity-30 hover:px-8">
 						Learn More
@@ -153,7 +154,7 @@
 </div>
 
 <!-- Custom GPTs  -->
-<div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center z-0">
+<!-- <div id="gpts" class="w-full h-screen bg-[url('/bgs/sunset.png')] bg-image flex flex-col justify-center items-center z-0">
 	<div class="w-full md:w-3/4 px-6 md:px-0 h-full flex justify-start items-center">
 		<div class=" lg:w-1/2 h-80 flex flex-col gap-6 md:px-4 py-24">
 			<div class="flex flex-row gap-2 items-center">
@@ -177,4 +178,4 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->

@@ -11,11 +11,11 @@
             Beyond creation. 
         </span>
         <div class="my-4">
-            <a href="https://buy.stripe.com/14k4jN6MN8Qx9SE8wC" class="py-4">
-                <button class="{$animate} bg-[#0B84FF] px-6 hover:px-10 font-bold altashadow py-2 rounded-full ">
-                    Start today
-                </button>
-            </a> 
+            <!-- <a href="mailto:montoya@astralta.com" class="py-4"> -->
+                <div class="{$animate} bg-transparent px-6 hover:px-10 font-bold altashadow py-2 rounded-full ">
+                    Invite only
+                </div>
+            <!-- </a>  -->
         </div>
     </div>
     <div class=" md:-mt-20 lg:-mt-32 z-10">
